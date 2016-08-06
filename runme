@@ -1,0 +1,2 @@
+#!/bin/bash
+java -classpath build/libs/shapes.jar net.jensenworld.shapes.AreaSummer $1
